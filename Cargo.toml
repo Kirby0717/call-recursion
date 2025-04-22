@@ -1,0 +1,10 @@
+[package]
+name = "call-recursion"
+version = "0.1.0"
+edition = "2024"
+
+license = "MIT OR Apache-2.0"
+authors = ["Kirby0717 <niconicoyusei@gmail.com>"]
+description = "Hack async to do recursion on the heap."
+readme = "README.md"
+repository = "https://github.com/Kirby0717/call-recursion"
